@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+developer.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="center">Hi there 👋, I'm Anh! Welcome to my GitHub Profile !!!</h2>
-
-<h2>🏆 Github Profile Trophy</h2>
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=trannham&column=9&theme=gruvbox&no-frame=true"/>
-
+<h2 align="center">Hi there 👋, I'm Tran Nham! Welcome to my GitHub Profile !!!</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannham&layout=compact)
 
