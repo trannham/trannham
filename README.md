@@ -11,13 +11,11 @@
 
 * Project 1:
   [Portfolio Page Boostrap and Sass](https://trannham.github.io/sass-bootstrap-portfolio/?target=_blank) <br />
-  [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
 
 <hr />
 
 * Project 2:
-  MERN Social media app
-  [Github repo](https://github.com/trannham/mern_memories) <br />
+  [Memory Cards Game TypeScript](https://trannham.github.io/memory-card-game/?target=_blank) <br />
 
 
 <hr />
@@ -28,7 +26,10 @@
 <hr />
   
 * Project 4:
-[Memory Cards Game TypeScript](https://trannham.github.io/memory-card-game/?target=_blank) <br />
+  MERN Social media app
+  [Github repo](https://github.com/trannham/mern_memories) <br />
+
+
 
 <hr />
 
