@@ -9,6 +9,30 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannham&layout=compact)
 
+* Project 1:
+  [Portfolio Page Boostrap and Sass](https://trannham.github.io/sass-bootstrap-portfolio/?target=_blank) <br />
+  [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
+
+<hr />
+
+* Project 2:
+  MERN Social media app
+  [Github repo](https://github.com/trannham/mern_memories) <br />
+
+
+<hr />
+
+* Project 3:
+  [Ecommerce Website MERN](https://mern-amz-app.herokuapp.com/?target=_blank) <br />
+
+<hr />
+  
+* Project 4:
+[Memory Cards Game TypeScript](https://trannham.github.io/memory-card-game/?target=_blank) <br />
+
+<hr />
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
