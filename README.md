@@ -26,8 +26,7 @@
 <hr />
   
 * Project 4:
-  MERN Social media app
-  [Github repo](https://github.com/trannham/mern_memories) <br />
+  [MERN Social media app](https://github.com/trannham/mern_memories) <br />
 
 
 
