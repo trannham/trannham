@@ -7,7 +7,6 @@
 - 💬 Ask me about anything (within reason)
 - 📫 How to reach me: https://www.linkedin.com/in/tran-nham-3010/ or through my email: nhamdientran@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannham&layout=compact)
 
 * Project 1:
   [Portfolio Page Boostrap and Sass](https://trannham.github.io/sass-bootstrap-portfolio/?target=_blank) <br />
@@ -36,3 +35,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,scss,git,nodejs,react,express,mongodb,typescript,graphql)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannham&layout=compact)
